@@ -1,0 +1,8 @@
+pypdf # pip install pypdf
+langchain # pip install langchain
+chromadb # Vector storage # pip install chromadb
+pytest
+boto3
+#pip install -q -U google-generativeai
+langchain_community
+langchain_chroma
