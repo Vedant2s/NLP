@@ -36,8 +36,8 @@ Replace "Your query text here" with the specific question or query you have for 
 
 ## Folder Structure
 
-*requirements.txt - List of packages required for the project.
-*data/ - Folder to store source context files (e.g., PDFs).
-*populate_database.py - Script to populate ChromaDB with embeddings for each document in data.
-*query_data.py - Script to submit queries and retrieve responses.
-*get_embedding_function.py - Contains functions for generating embeddings using Gemini AI Studio.
+* requirements.txt - List of packages required for the project.
+* data/ - Folder to store source context files (e.g., PDFs).
+* populate_database.py - Script to populate ChromaDB with embeddings for each document in data.
+* query_data.py - Script to submit queries and retrieve responses.
+* get_embedding_function.py - Contains functions for generating embeddings using Gemini AI Studio.
