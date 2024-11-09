@@ -9,6 +9,7 @@ To install the necessary packages, open your terminal and run:
 ```bash
 pip install -r requirements.txt
 ```
+### We need to install Visual Studio Build Tools for successfully installing ChromaDB 
 ## Add Your Source Context Files
 In the data folder of the project package, you can add your own source context documents (e.g., PDFs) that you want to use as reference material for the chat application. Once added, make sure to run the populate_database.py script to store the documents in ChromaDB as embeddings.
 
