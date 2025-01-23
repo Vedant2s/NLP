@@ -5,4 +5,6 @@ pytest
 boto3
 #pip install -q -U google-generativeai
 langchain_community
+langchain_text_splitters
+google-generativeai
 langchain_chroma
