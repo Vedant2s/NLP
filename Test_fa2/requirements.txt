@@ -1,4 +1,4 @@
-pypdf # pip install pypdf
+PyPDF2 # pip install pypdf
 langchain # pip install langchain
 chromadb # Vector storage # pip install chromadb
 pytest
